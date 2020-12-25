@@ -19,7 +19,7 @@
   </a>
 </span>
 
-<br/>
+<br/><br/>
 
 ## Coding Activity
 
