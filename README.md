@@ -1,4 +1,4 @@
-# Hi, welcome <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+# Hi, welcome <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h2>
 
 <p align="center">
   I am a student of information systems <br/>
@@ -7,7 +7,7 @@
   (and I love it! :heart_eyes:).
 </p>
 
-## Where can you find me
+## Where can you find me <img src="https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif?1598815727" width="25" alt="Arrow Gif" />
 
 <span>
   <a href="https://www.linkedin.com/in/edson-lucas-b9310415b/">
