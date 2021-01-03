@@ -44,5 +44,5 @@
 <p align="center">
  <img width="50" src="https://badges.pufler.dev/visits/EdsonLucasbd/EdsonLucasbd" alt="Visitors badge" />
  
- <img width="82" src="https://komarev.com/ghpvc/?username=EdsonLucasbd&color=brightgreen" alt="Profile visitors badge" />
+ <img width="88" src="https://komarev.com/ghpvc/?username=EdsonLucasbd&color=brightgreen" alt="Profile visitors badge" />
 </p>
