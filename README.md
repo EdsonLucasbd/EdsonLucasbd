@@ -39,6 +39,10 @@
   <a href="https://github.com/EdsonLucasbd/happy_pet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=happy_pet&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
   </a>
+  
+  <a href="https://github.com/EdsonLucasbd/happy_pet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=my-links-page&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
+  </a>
 </p>
 
 <p align="center">
