@@ -40,14 +40,20 @@
   <a href="https://github.com/EdsonLucasbd/happy_pet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=happy_pet&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://github.com/EdsonLucasbd/my-links-page">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=my-links-page&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
   </a>
 </p>
 
+<br/>
+
+<p align="center">
+  <a href="https://github.com/EdsonLucasbd/TakeCare">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=TakeCare&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
+  </a>
+</p>
+
 <p align="center">
  <img width="50" src="https://badges.pufler.dev/visits/EdsonLucasbd/EdsonLucasbd" alt="Visitors badge" />
- 
- <img width="88" src="https://komarev.com/ghpvc/?username=EdsonLucasbd&color=brightgreen" alt="Profile visitors badge" />
 </p>
