@@ -25,24 +25,24 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdsonLucasbd&count_private=true&show_icons=true&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdsonLucasbd&count_private=true&show_icons=true&theme=radical" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLucasbd&layout=compact&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLucasbd&layout=compact&theme=radical" />
 </p>
 
 <br/><br/>
 
 <p align="center">
   <a href="https://github.com/EdsonLucasbd/happy_pet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=happy_pet&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=happy_pet&theme=radical" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/EdsonLucasbd/my-links-page">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=my-links-page&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=my-links-page&theme=radical" />
   </a>
 </p>
 
@@ -50,11 +50,11 @@
 
 <p align="center">
   <a href="https://github.com/EdsonLucasbd/TakeCare">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=TakeCare&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=TakeCare&theme=radical" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/EdsonLucasbd/WeatherInfo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=WeatherInfo&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=WeatherInfo&theme=radical" />
   </a>
 </p>
 
