@@ -52,6 +52,10 @@
   <a href="https://github.com/EdsonLucasbd/TakeCare">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=TakeCare&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/EdsonLucasbd/WeatherInfo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonLucasbd&repo=WeatherInfo&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B&theme=synthwave" />
+  </a>
 </p>
 
 <p align="center">
