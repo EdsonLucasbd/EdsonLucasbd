@@ -1,4 +1,4 @@
-# Hi, welcome <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h2>
+# Hi, welcome <img src="https://github.com/EdsonLucasbd/EdsonLucasbd/blob/main/images/hi.gif?raw=true" width="30" alt="Hi Gif" /></h2>
 
 <p align="center">
   I am a student of information systems <br/>
