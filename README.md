@@ -1,6 +1,8 @@
+<img align="right" src="https://github.com/EdsonLucasbd/EdsonLucasbd/blob/main/images/illustration.png?raw=true" width="300"/>
+
 # Hi, welcome <img src="https://github.com/EdsonLucasbd/EdsonLucasbd/blob/main/images/hi.gif?raw=true" width="30" alt="Hi Gif" /></h2>
 
-<p align="center">
+<p>
   I am a student of information systems <br/>
   and a lover of technology. <br/>
   I am currently developing some web apps with React <br/>
@@ -15,7 +17,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=EdsonLucasbd&count_private=true&show_icons=true&theme=great-gatsby" />
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLucasbd&layout=compact&theme=great-gatsby" />
+<!--   <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLucasbd&layout=compact&theme=great-gatsby" /> -->
 </p>
 
 <div style="display: inline_block"><br>
@@ -24,7 +26,7 @@
   <img align="center" alt="Js" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
   <img align="center" alt="React" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
   <img align="center" alt="Python" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
-  <img align="right" alt="VaderGif" width="300px" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d296dd68040289.5b4f1d967b1ee.gif'> 
+<!--   <img align="right" alt="VaderGif" width="300px" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d296dd68040289.5b4f1d967b1ee.gif'>  -->
 </div>
 
 ##
