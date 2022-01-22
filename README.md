@@ -16,7 +16,7 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EdsonLucasbd&count_private=true&show_icons=true&theme=great-gatsby" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdsonLucasbd&count_private=true&show_icons=true&theme=dracula" />
 <!--   <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLucasbd&layout=compact&theme=great-gatsby" /> -->
 </p>
 
@@ -25,7 +25,11 @@
   <img align="center" alt="CSS" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
   <img align="center" alt="Js" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
   <img align="center" alt="React" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
-  <img align="center" alt="Python" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
+<!--   <img align="center" alt="Python" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'> -->
+  <img align="center" alt="Next" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg' />
+  <img align="center" alt="Firebase" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg'>
+  <img align="center" alt="Figma" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg'>
+
 <!--   <img align="right" alt="VaderGif" width="300px" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d296dd68040289.5b4f1d967b1ee.gif'>  -->
 </div>
 
