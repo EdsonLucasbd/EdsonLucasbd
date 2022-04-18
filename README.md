@@ -1,13 +1,12 @@
-<img align="right" src="https://github.com/EdsonLucasbd/EdsonLucasbd/blob/main/images/illustration.png?raw=true" width="300"/>
+<img src="https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif"/>
 
 # Hi, welcome <img src="https://github.com/EdsonLucasbd/EdsonLucasbd/blob/main/images/hi.gif?raw=true" width="30" alt="Hi Gif" /></h2>
 
 <p>
-  I am a student of information systems <br/>
-  and a lover of technology. <br/>
-  I am currently developing some web apps with React <br/>
-  and mobile projects with React Native <br/>
-  (and I love it! :heart_eyes:).
+  I am a student of information systems and a lover of technology. <br/>
+  I am currently developing some web apps with React and Next js. <br/>
+  Sometimes I also like to create some mobile applications with React Native. <br/>
+  (and I love it! :heart_eyes:)
 </p>
 
 <br/><br/>
@@ -38,6 +37,8 @@
   <a href="https://www.linkedin.com/in/edson-lucas-b9310415b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <a href="mailto:edsonlucas.lucas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
   </a>
+  
+  <img alt="Website" src="https://img.shields.io/website?color=rgb%2842%2C%20207%2C%20131%29&down_color=red&down_message=offline&label=Portfolio&logo=vercel&style=for-the-badge&up_color=rgb%2842%2C%20207%2C%20131%29&up_message=go&url=http%3A%2F%2Fmeu-portfolio-vercel.vercel.app%2F">
 </div>
