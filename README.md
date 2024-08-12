@@ -15,24 +15,24 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EdsonLucasbd&count_private=true&show_icons=true&theme=dracula" /> </br> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=EdsonLucasbd&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" /> </br> </br>
 <!--   <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLucasbd&layout=compact&theme=great-gatsby" /> -->
-  <img src="https://streak-stats.demolab.com/?user=EdsonLucasbd&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonLucasbd&theme=midnight-purple&hide_border=false" />
 </p>
 
+## Tech Stack 💻
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
-  <img align="center" alt="Tailwind" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
-  <img align="center" alt="JavaScript" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
-<!--   <img align="center" alt="Python" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'> -->
-  <img align="center" alt="Next" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg'/>
-  <img align="center" alt="Firebase" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg'>
-  <img align="center" alt="Figma" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg'>
+<div style="display: inline_block"> 
+  <br>  
+  <img alt="js" src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript">
+  <img alt="TS" src="https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript">
+  <img alt="CSS" src="https://img.shields.io/badge/Css3-black?style=flat-square&logo=css3">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-black?style=flat-square&logo=tailwindcss">
+  <img alt="html" src="https://img.shields.io/badge/Html5-black?style=flat-square&logo=html5">
+  <img alt="react" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react">
+  <img alt="nextjs" src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=nextdotjs">
+  <img alt="figma" src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma">
 
-<!--   <img align="right" alt="VaderGif" width="300px" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d296dd68040289.5b4f1d967b1ee.gif'>  -->
 </div>
 
 ##
@@ -46,6 +46,6 @@
   </a>
   
   <a href="https://edsonlucas.vercel.app/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/website?color=rgb%2842%2C%20207%2C%20131%29&down_color=red&down_message=offline&label=Portfolio&logo=vercel&style=for-the-badge&up_color=rgb%2842%2C%20207%2C%20131%29&up_message=go&url=http%3A%2F%2Fedsonlucas.vercel.app%2F">
+    <img alt="Website" src="https://img.shields.io/website?color=rgb%2842%2C%20207%2C%20131%29&down_color=red&down_message=offline&label=Portfolio&logo=vercel&style=for-the-badge&up_color=rgb%2842%2C%20207%2C%20131%29&up_message=go&url=https://oedsonlucas.com.br/">
   </a>
 </div>
