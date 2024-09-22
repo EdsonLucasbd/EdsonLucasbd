@@ -28,10 +28,13 @@
   <img alt="TS" src="https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript">
   <img alt="CSS" src="https://img.shields.io/badge/Css3-black?style=flat-square&logo=css3">
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-black?style=flat-square&logo=tailwindcss">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Styled-Components?style=flat-square&logo=Styled-components&color=black">
   <img alt="html" src="https://img.shields.io/badge/Html5-black?style=flat-square&logo=html5">
   <img alt="react" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react">
   <img alt="nextjs" src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=nextdotjs">
   <img alt="figma" src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tanstack-query?style=flat-square&logo=React%20query&color=black">
+
 
 </div>
 
