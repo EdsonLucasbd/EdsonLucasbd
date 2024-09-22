@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
   </a>
   
-  <a href="https://edsonlucas.vercel.app/" target="_blank">
+  <a href="oedsonlucas.com.br" target="_blank">
     <img alt="Website" src="https://img.shields.io/website?color=rgb%2842%2C%20207%2C%20131%29&down_color=red&down_message=offline&label=Portfolio&logo=vercel&style=for-the-badge&up_color=rgb%2842%2C%20207%2C%20131%29&up_message=go&url=https://oedsonlucas.com.br/">
   </a>
 </div>
